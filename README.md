@@ -12,7 +12,7 @@
 <hr> </hr>
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kristapssteins&langs_count=5&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kristapssteins)](https://github.com/kristapssteins/github-readme-stats)
 
 
 <hr> </hr>

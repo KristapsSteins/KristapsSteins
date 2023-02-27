@@ -16,6 +16,6 @@
 <hr> </hr>
 <h2>One of my last projects:</h2>
 <p></p>
-<a href="https://kristapssteins-rps-game.netlify.app/">My First RPS Game</a>
+<a href="https://github.com/KristapsSteins/18_MD_RPS-game">My First RPS Game</a>
 <p></p>
 <hr> </hr>

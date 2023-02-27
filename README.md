@@ -1,5 +1,7 @@
 <h1 align="start">Hi 👋, I'm Kristaps Šteins!</h1>
-<h3 align="justify">I have experience as a front-end web developer with knowledge of React.js, CSS, and TypeScript, as well as experience in back-end development and topographic surveys. I am a quick learner and team player with excellent communication and leadership skills, dedicated to constantly improving and taking on new challenges in the software development industry.</h3>
+
+
+<p align="justify">I have experience as a front-end web developer with knowledge of React.js, CSS, and TypeScript, as well as experience in back-end development and topographic surveys. I am a quick learner and team player with excellent communication and leadership skills, dedicated to constantly improving and taking on new challenges in the software development industry.</p>
 
 <hr> </hr>
 
@@ -10,10 +12,6 @@
 <a href="steinskristaps94@gmail.com">steinskristaps94@gmail.com</a>
 </p>
 <hr> </hr>
-
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kristapssteins)](https://github.com/kristapssteins/github-readme-stats)
-
 
 <hr> </hr>
 <h3 align="left">Languages and Tools:</h3>

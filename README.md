@@ -1,9 +1,7 @@
 <h1 align="start">Hi 👋, I'm Kristaps Šteins!</h1>
 
-<hr> </hr>
 
-
-<p align="justify">I have experience as a front-end web developer with knowledge of React.js, CSS, and TypeScript, as well as experience in back-end development and topographic surveys. I am a quick learner and team player with excellent communication and leadership skills, dedicated to constantly improving and taking on new challenges in the software development industry.</p>
+<p align="start">I have experience as a front-end web developer with knowledge of React.js, CSS, and TypeScript, as well as experience in back-end development and topographic surveys. I am a quick learner and team player with excellent communication and leadership skills, dedicated to constantly improving and taking on new challenges in the software development industry.</p>
 
 <hr> </hr>
 

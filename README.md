@@ -13,6 +13,6 @@ I have experience as a front-end web developer with knowledge of React.js, CSS, 
 
 
 ### ✊✌✋🖖🤏 One of my last projects:
-<a href="https://github.com/KristapsSteins/18_MD_RPS-game">My First RPS Game</a>
+<a href="https://kristapsmusicalapp.netlify.app/">Musical app</a>
 <p></p>
 <hr> </hr>
